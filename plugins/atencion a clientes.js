@@ -8,6 +8,6 @@ type: 'audioMessage',
 ptt: true
 })
 }
-handler.customPrefix = /miarda de bot|el bot no sirve/
+handler.customPrefix = /miarda de bot|mierda de bot|mearda de bot|Miarda de Bot|Mierda de Bot|Mearda de Bot /
 handler.command = new RegExp
 module.exports = handler
