@@ -35,7 +35,7 @@
 > npm start
 ```
 ### `ACTIVAR EN HEROKU`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/ShadowBotV3.2)
 ```bash
 AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE:
 > heroku/nodejs
