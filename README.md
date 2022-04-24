@@ -30,7 +30,7 @@
 > git clone https://github.com/BrunoSobrino/ShadowBotV3.2
 > cd ShadowBotV3.2
 > npm install
-> npm install -g npm@8.5.4
+> npm install -g npm@8.7.0
 > npm update
 > npm start
 ```
