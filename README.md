@@ -68,7 +68,6 @@ de esa cantidad el Bot empieza a ir
 excesivamente lento (depende del WhatsApp igual)
 ```
 ### `WHATSAPP "BETA" (MULTI-DEVICE)`
-```bash
 > #### *⚠️ ShadowBotV3 no es, ni sera compatible con la versión "beta" de WhatsApp (Multi-Dispositivo - Multi-Device), por lo que se sugiere usar los siguientes WhatsApps*
 > ##### Agradecimientos a GataNina-Li por la recopilacion de los WhatsApps
 * [Opción 1 - WhatsApp Recomendado](https://www.mediafire.com/file/1pr2m3f5lnlqcoq/L_%25CE%259B_%25E2%2586%2592J_%25CE%25A3_F_%25CE%259BV_6__VERSI%25C3%2593N_FINAL%25E1%25A5%25AB%25E1%25AD%25A1%25E1%258D%259D%25D6%259F%25E1%258D%259D%25D6%259F_2.22.2.73.apk/file).
@@ -76,7 +75,7 @@ excesivamente lento (depende del WhatsApp igual)
 * [Opción 3 - WhatsApp Recomendado](https://www.mediafire.com/file/g475ph68h8c047y/WhatsApp_2.21.19.21%25282%2529.apk/file).
 * [Opción 4 - WhatsApp Recomendado](https://www.mediafire.com/file/drcy3rn45buoyr4/%25E2%2598%25A3%25EF%25B8%258F%25F0%2593%2580%25AC%25F0%259D%2597%25A7%25F0%259D%2597%25B6%25F0%259D%2597%25B8%25E2%259C%2587%25F0%259D%2597%25A7%25F0%259D%2597%25BC%25F0%259D%2597%25B8%25F0%2593%2580%25AC.apk/file).
 * [Opción 5 - WhatsApp Recomendado](https://www.mediafire.com/file/pxfksca3yatav5f/%25E0%25A6%2594%25E0%25A7%25A3%25CD%25A1%25CD%259C%25E2%258D%25A3%25E2%2582%25AE%25C9%2584%25C9%258C%25C9%2583%25C3%2598%25E0%25AF%2580%25CD%259C%25E2%2582%25A6%25C6%2597%25E2%2582%25AE%25C9%258C%25C3%2598%25E2%259E%25A3%25E2%259C%25AA_%25E2%25A9%2594-7.apk/file).
-```
+
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![BrunoSobrino](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://avatars.githubusercontent.com/u/90165013?s=400&u=cdf7fd989e2a787c9f400545147865615c336002&v=4) 
 ```bash
